@@ -1,6 +1,6 @@
 # InterfaceLab
 
-Приложение для тренировки и для наглядного просмотра функцинала построения интерфейса на SiftUI
+Приложение для тренировки и для наглядного просмотра функцинала построения интерфейса на SwiftUI
 
 <img src="https://github.com/user-attachments/assets/0a066e09-5632-4220-9486-d6c357f61f22" width="200">
 <img src="https://github.com/user-attachments/assets/c1cb3387-a30b-4eeb-a442-9d0eeed89311" width="200">
